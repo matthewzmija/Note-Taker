@@ -35,6 +35,10 @@ https://github.com/matthewzmija/Note-Taker
 
 https://sheltered-crag-48593.herokuapp.com/
 
+## References
+
+https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide
+
 ## License
 
 MIT
