@@ -1,6 +1,7 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+	{
+		"title": "Grocery List",
+		"text": "-Eggs\n-Milk\n-Lettuce\n-Cheese\n-Tomatoes",
+		"id": "1684863062616"
+	}
 ]
