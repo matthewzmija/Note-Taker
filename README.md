@@ -33,6 +33,8 @@ https://github.com/matthewzmija/Note-Taker
 
 ## URL of the deployed application
 
+https://sheltered-crag-48593.herokuapp.com/
+
 ## License
 
 MIT
