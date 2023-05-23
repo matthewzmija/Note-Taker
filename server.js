@@ -1,9 +1,9 @@
-//Importing Express framework, path module, and API router
+// Importing Express framework, path module, and API router
 const express = require("express");
 const path = require("path");
 const api = require("./routes/index");
 
-//Indicating the port number
+// Indicating the port number
 const PORT = 3001;
 
 // Creating an instance of the Express application
